@@ -2,30 +2,30 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>items</key>
-	<array>
-		<dict>
-			<key>assets</key>
-			<array>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>http://122.114.132.57:3000/ios_app/qch.ipa</string>
-				</dict>
-			</array>
-			<key>metadata</key>
-			<dict>
-				<key>bundle-identifier</key>
-				<string>io.dcloud.H5EF3300A</string>
-				<key>bundle-version</key>
-				<string>1.0</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>title</key>
-				<string>七彩虹娱乐城</string>
-			</dict>
-		</dict>
-	</array>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://122.114.169.185:3000/ios/qchyl.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.bigcharge.qch</string>
+                <key>bundle-version</key>
+                <string>83</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>七彩虹娱乐</string>
+            </dict>
+        </dict>
+    </array>
 </dict>
 </plist>
